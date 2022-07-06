@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Passion-bird
+- 👋 Hi, I’m @ellaidhurai
 - 👀 I’m interested in web design and web developement.
 - 🌱 I’m currently learning frontend languages. 
 - 💞️ I’m looking to collaborate on people like me.
